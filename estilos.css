@@ -3,7 +3,7 @@
     background-color: yellow;
     width: 800px;
 }
-.encabezado{
+.encabezado {
     display: table-cell;
     border: 1px;
     border-style: dotted;
@@ -12,6 +12,7 @@
     width: 400px;
     color:red;
     text-align: center;
+
 }
 .columnas{
     display: table-cell;
