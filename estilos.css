@@ -1,0 +1,31 @@
+.tabla{
+    display: table;
+    background-color: yellow;
+    width: 800px;
+}
+.encabezado{
+    display: table-cell;
+    border: 1px;
+    border-style: dotted;
+    border-color: #C0C0C0;
+    width: 400px;
+    color:red;
+    text-align: center;
+}
+.columnas{
+    display: table-cell;
+    border: 1px;
+    border-style: dotted;
+    border-color: #C0C0C0;
+    width: 400px;
+}
+.footer{
+    display: table-cell;
+    border: 1px;
+    border-style: dotted;
+    border-color: #C0C0C0;
+    width: 800px;
+}
+.menor{
+    font-size: small;
+}
